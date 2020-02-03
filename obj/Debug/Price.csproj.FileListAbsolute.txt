@@ -1,0 +1,13 @@
+C:\Users\kiros\Desktop\price\Price\obj\Debug\Price.csprojAssemblyReference.cache
+C:\Users\kiros\Desktop\price\Price\obj\Debug\Price.Form1.resources
+C:\Users\kiros\Desktop\price\Price\obj\Debug\Price.Properties.Resources.resources
+C:\Users\kiros\Desktop\price\Price\obj\Debug\Price.csproj.GenerateResource.cache
+C:\Users\kiros\Desktop\price\Price\obj\Debug\Price.csproj.CoreCompileInputs.cache
+C:\Users\kiros\Desktop\price\Price\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kiros\Desktop\price\Price\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kiros\Desktop\price\Price\obj\Debug\Price.csproj.CopyComplete
+C:\Users\kiros\Desktop\price\Price\bin\Debug\网易考拉价格监控.exe.config
+C:\Users\kiros\Desktop\price\Price\bin\Debug\网易考拉价格监控.exe
+C:\Users\kiros\Desktop\price\Price\bin\Debug\网易考拉价格监控.pdb
+C:\Users\kiros\Desktop\price\Price\obj\Debug\网易考拉价格监控.exe
+C:\Users\kiros\Desktop\price\Price\obj\Debug\网易考拉价格监控.pdb
