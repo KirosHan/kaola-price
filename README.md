@@ -5,4 +5,8 @@
 
 
 
-默认10s一次拉取，   没给配置懒得改了，  有需要的话自己clone修改吧
+2020-2-6 添加间隔时间设置
+
+
+
+[预览图](https://github.com/KirosHan/kaola-price/blob/master/捕获.PNG)

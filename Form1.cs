@@ -38,9 +38,10 @@ namespace Price
                 lowprice = float.Parse(textBox2.Text.Trim());
                 setdata(goodsid);
 
+                timer1.Interval = int.Parse(numericUpDown1.Value.ToString()) * 1000;
                 timer1.Start();
 
-                this.notifyIcon1.ShowBalloonTip(15, "开始", "已开始监控", ToolTipIcon.Info);
+                this.notifyIcon1.ShowBalloonTip(15, "开始", "已开始监控(每"+ numericUpDown1.Value.ToString() + "秒一次)", ToolTipIcon.Info);
             }
 
         }
@@ -115,6 +116,11 @@ namespace Price
         private void LinkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             MessageBox.Show("即警戒价格，监控到低于或等于改价格则会在桌面发出通知");
+        }
+
+        private void LinkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            MessageBox.Show("即每次拉取数据的间隔时间");
         }
     }
 }
