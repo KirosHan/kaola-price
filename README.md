@@ -9,4 +9,4 @@
 
 
 
-[预览图](https://github.com/KirosHan/kaola-price/blob/master/捕获.PNG)
+![预览图](https://github.com/KirosHan/kaola-price/blob/master/捕获.PNG)
